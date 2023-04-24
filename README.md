@@ -52,13 +52,13 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 
 ## 开发计划
 
-- [x] 为每个对话设置系统 Prompt [#138](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)
+- [x] 为每个对话设置系统 Prompt [#138](https://github.com/wstgpt/WSTGPT/issues/138)
 - [x] 允许用户自行编辑内置 Prompt 列表
 - [ ] 提示词模板：使用预制上下文快速定制新对话
 - [ ] 分享为图片，分享到 ShareGPT
 - [ ] 使用 tauri 打包桌面应用
 - [ ] 支持自部署的大语言模型
-- [ ] 插件机制，支持联网搜索、计算器、调用其他平台 api [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165)
+- [ ] 插件机制，支持联网搜索、计算器、调用其他平台 api [#165](https://github.com/wstgpt/WSTGPT/issues/165)
 
 ### 不会开发的功能
 
